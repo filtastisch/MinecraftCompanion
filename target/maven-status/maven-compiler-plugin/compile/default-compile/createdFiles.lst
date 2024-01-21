@@ -1,0 +1,7 @@
+eu\filtastisch\minecraftcompanion\connection\listener\AppInputListener.class
+eu\filtastisch\minecraftcompanion\MinecraftCompanion$1.class
+eu\filtastisch\minecraftcompanion\connection\events\EventTrigger.class
+eu\filtastisch\minecraftcompanion\connection\listener\AppInputEvent.class
+eu\filtastisch\minecraftcompanion\connection\events\AppInputEventListener.class
+eu\filtastisch\minecraftcompanion\commands\SetupCommand.class
+eu\filtastisch\minecraftcompanion\MinecraftCompanion.class

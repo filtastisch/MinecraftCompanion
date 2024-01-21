@@ -1,0 +1,6 @@
+name: MinecraftCompanion
+version: '1.0-SNAPSHOT'
+main: eu.filtastisch.minecraftcompanion.MinecraftCompanion
+api-version: '1.20'
+commands:
+  setup:
